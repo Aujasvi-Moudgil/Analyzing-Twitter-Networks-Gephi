@@ -3,7 +3,7 @@ The repo contains Master Course Work project report of defining a twitter conver
 
 The conversational graph structure represents how users are interacting within the network in the form of nodes and edges. 
 
-![image](https://drive.google.com/uc?export=view&id=1VxlSiLoz2YZbGXKvuhupuKKxyiQNmMB2)
+
 
 
 

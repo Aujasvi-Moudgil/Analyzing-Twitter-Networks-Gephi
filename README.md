@@ -3,7 +3,7 @@ The repo contains Master Course Work project report of defining a twitter conver
 
 The conversational graph structure represents how users are interacting within the network in the form of nodes and edges. 
 
-#### The work was supervised by Prof. Pascale Kuntz (LS2N / DUKe, Nantes, France). 
+#### The work was supervised by Prof. Pascale KUNTZ-COSPEREC, LS2N, Nantes. 
 
 ![Image](TwitterGraph.png)
 

@@ -5,7 +5,7 @@ The conversational graph structure represents how users are interacting within t
 
 #### The work was supervised by Prof. Pascale KUNTZ-COSPEREC, LS2N, Nantes, France.  
 
-![Image](TwitterGraph.png)(http://theodi.fbk.eu/openbigdata/)
+![Image](TwitterGraph.png)
 
 
 
